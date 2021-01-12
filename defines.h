@@ -1,0 +1,3 @@
+#pragma once
+#define SCREEN_CENTER_WIDTH 640
+#define SCREEN_CENTER_HEIGHT 360
